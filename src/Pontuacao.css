@@ -1,0 +1,19 @@
+.pontuacao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 40px;
+    padding: 40px;
+    border: 5px solid red;
+}
+
+.pontuacao h1{
+    margin: 0;
+    font-size: 40pt;
+}
+
+.pontuacao h2{
+    margin: 0;
+    font-size: 80pt;
+}

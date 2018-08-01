@@ -1,0 +1,10 @@
+.placar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: lightgray;
+  color: red;
+  font-size: 70pt;
+  font-family: sans-serif;
+}
